@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'David',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -48,19 +48,19 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail/u/0/#inbox',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Arduino',
+      icon: 'zap',
+      link: 'https://www.arduino.cc/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Drive',
+      icon: 'upload-cloud',
+      link: 'https://drive.google.com/drive/my-drive',
     },
     {
       id: '5',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
@@ -88,26 +88,26 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'K-Indie',
+        link: 'https://www.youtube.com/playlist?list=PLYyWwMzPI75TID--pLfPUJRjGIQJckSsL',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Lo-Fi',
+        link: 'https://www.youtube.com/watch?v=5qap5aO4i9A',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Old Rap',
+        link: 'https://www.youtube.com/playlist?list=PLUAHMBt7GnXaZA6ecafUtYjhPomPm6y22',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Trap',
+        link: 'https://www.youtube.com/playlist?list=PLbGACOBsdsCJm2m10KbQToRiUf_1pB1wK',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Messenger',
+        link: 'https://www.messenger.com/t/2627784607331224',
       },
       {
         name: 'Figma',
